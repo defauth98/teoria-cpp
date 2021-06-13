@@ -11,7 +11,7 @@ Repositórios de exercícios em c++.
 
 ### :nut_and_bolt: Tecnologias
 
-Esse projeto foi desenvolvido com a seguinte técnologia:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - [C++][cpp]
 
